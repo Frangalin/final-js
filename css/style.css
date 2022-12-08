@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: rgba(236, 232, 232, 0.575);
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.col .row {
+    margin: auto;
+}
+
+.row .col.s12{
+    border: 1px solid black;
+}
+
+td img {
+    max-width: 150px;
+    max-height: 150px;
+}
